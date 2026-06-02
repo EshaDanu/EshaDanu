@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EshaDanu
 - 👀 I’m interested in machine learning,web development and artificial intelligence
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on artuficial intelligence
+- 💞️ I’m looking to collaborate on artificial intelligence
 - 📫 How to reach me eshadanu.kvhld@gmail.com
 - 😄 Pronouns: She Her
 - ⚡ Fun fact: Iam a Btech student 
